@@ -1,4 +1,4 @@
-git tracks changes.
+git tracks changes of files.
 git is a version control system.
 llll
 git is free software.
